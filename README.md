@@ -3,7 +3,7 @@
 Hola, mi nombre es Ariana Gonzabay y soy estudiante de la carrera de Ingeniería en Computación en ESPOL.
 
 ## Proyectos Realizados
--Juego de Memoria utilizando cartas de UNO, usando JavaScript.
+- Juego de Memoria utilizando cartas de UNO, usando JavaScript.
 ## Tecnologías utilizadas
 - Lenguajes: Java, JavaScript, Python, C.
 - Herramientas: Git, Visual Studio.
